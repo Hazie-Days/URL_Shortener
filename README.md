@@ -42,17 +42,11 @@ This is an example of how to list things you need to use the software and how to
    npm install
    ```
 3. open termninal cd to frontend and run npm start dev
-   open another terminal and cd to backend and run npm start 
+4. open another terminal and cd to backend and run npm start 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 
-
-
-
-See the [open issues](https://github.com/github_username/repo_name/issues) for a full list of proposed features (and known issues).
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 
 
