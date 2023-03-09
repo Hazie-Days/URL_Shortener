@@ -11,9 +11,7 @@ Build a URL shortener, just like https://bit.ly
 * NestJS
 * MongoDB
 
-Demo: https://main--incomparable-belekoy-855e79.netlify.app/
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
+### Demo: https://main--incomparable-belekoy-855e79.netlify.app/
 
 
 <!-- GETTING STARTED -->
@@ -44,7 +42,7 @@ This is an example of how to list things you need to use the software and how to
 3. open termninal cd to frontend and run npm start dev
 4. open another terminal and cd to backend and run npm start 
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
 
 
 
