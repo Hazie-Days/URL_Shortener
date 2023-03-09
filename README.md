@@ -33,16 +33,16 @@ This is an example of how to list things you need to use the software and how to
 
 ### Installation
 
-1. Get a free API Key at [https://example.com](https://example.com)
-2. Clone the repo
+ 
+1. Clone the repo
    
    git clone https://github.com/Hazie-Days/URL_Shortener.git
-   ```
-3. Install NPM packages
+  
+2. Install NPM packages
    ```sh
    npm install
    ```
-4. open termninal cd to frontend and run npm start dev
+3. open termninal cd to frontend and run npm start dev
    open another terminal and cd to backend and run npm start 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
