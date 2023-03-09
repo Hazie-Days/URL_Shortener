@@ -11,6 +11,7 @@ Build a URL shortener, just like https://bit.ly
 * NestJS
 * MongoDB
 
+Demo: https://main--incomparable-belekoy-855e79.netlify.app/
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
